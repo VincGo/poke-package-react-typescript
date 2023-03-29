@@ -1,3 +1,3 @@
-import MyCounter from './components/App'
+import Title from './components/App'
 
-export { MyCounter }
+export { Title }
